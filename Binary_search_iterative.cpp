@@ -34,5 +34,4 @@ int main()
     }
     if(flag)
         cout<<"NOT FOUND";
-
 }
