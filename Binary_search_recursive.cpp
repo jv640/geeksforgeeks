@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 
@@ -40,3 +41,6 @@ void BS(int arr[], int num, int l, int h)
             BS(arr, num, l, mid - 1);
     }
 }
+=======
+
+>>>>>>> 1e879b6c06a51af5898dad2e3ec425f82d4fb2ae
